@@ -1,0 +1,6 @@
+{
+  "name": "CF7 Submissions DB — RSW Studio",
+  "description": "Console di gestione, reportistica UTM ed esportazione CSV per il plugin WordPress CF7 Submissions DB (Contact Form 7), completa di guida all'installazione e all'utilizzo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
